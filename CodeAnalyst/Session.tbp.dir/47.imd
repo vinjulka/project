@@ -1,0 +1,13 @@
+﻿[C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.VisualStu#\fc9d54ccec3adfa44717041f0e756857\Microsoft.VisualStudio.Shell.10.0.ni.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x62fb0000
+LINECOUNT=1
+4384,2804,1,1,[3 0] 1,0x7c490
+[SUB_END]
+[END]
+

@@ -1,0 +1,13 @@
+﻿[unknown module pid (404)]
+SIZE=0
+SAMPS=2
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=2
+404,4456,1,1,[1 0] 1,0x7765b5fa
+404,4456,1,1,[1 0] 1,0x77695055
+[SUB_END]
+[END]
+

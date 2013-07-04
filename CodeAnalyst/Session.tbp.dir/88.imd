@@ -1,0 +1,12 @@
+﻿[unknown module pid (972)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+972,5084,1,1,[2 0] 1,0x770e3004
+[SUB_END]
+[END]
+

@@ -1,0 +1,12 @@
+﻿[unknown module pid (696)]
+SIZE=0
+SAMPS=1
+ModuleType=5
+NUMSUBSECTIONS=1
+
+[SUB]
+LINECOUNT=1
+696,3208,1,1,[3 0] 1,0x770e2d70
+[SUB_END]
+[END]
+

@@ -1,0 +1,13 @@
+﻿[C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC#\VCSPackages\csproj.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x599c0000
+LINECOUNT=1
+4384,2804,1,1,[3 0] 1,0x30b0
+[SUB_END]
+[END]
+

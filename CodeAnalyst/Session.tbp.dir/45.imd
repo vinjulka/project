@@ -1,0 +1,13 @@
+﻿[C:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.VisualStu#\c06707de5cfdc76cb38c3d9a09a4b7c1\Microsoft.VisualStudio.Text.Logic.ni.dll]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0x5aae0000
+LINECOUNT=1
+4384,2804,1,1,[3 0] 1,0x14796
+[SUB_END]
+[END]
+

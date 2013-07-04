@@ -1,0 +1,15 @@
+﻿[C:\Windows\system32\hal.dll]
+SIZE=0
+SAMPS=5
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff800039f6000
+LINECOUNT=3
+0,0,1,1,[2 0] 1,0x7b3d
+0,0,3,1,[0 0] 3,0x102c3
+2560,1892,1,1,[2 0] 1,0x135a4
+[SUB_END]
+[END]
+

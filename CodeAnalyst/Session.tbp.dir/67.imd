@@ -1,0 +1,13 @@
+﻿[C:\Windows\system32\drivers\volmgr.sys]
+SIZE=0
+SAMPS=1
+ModuleType=1
+NUMSUBSECTIONS=1
+
+[SUB]
+BASEADDR=0xfffff88000e2a000
+LINECOUNT=1
+4792,864,1,1,[2 0] 1,0x154b
+[SUB_END]
+[END]
+
