@@ -1,0 +1,40 @@
+c:\users\mmarc\documents\visual studio 2010\Projects\Project_test\Project_test\bin\Debug\Project_test.exe
+c:\users\mmarc\documents\visual studio 2010\Projects\Project_test\Project_test\bin\Debug\Project_test.pdb
+c:\users\mmarc\documents\visual studio 2010\Projects\Project_test\Project_test\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mmarc\documents\visual studio 2010\Projects\Project_test\Project_test\obj\x86\Debug\MainWindow.baml
+c:\users\mmarc\documents\visual studio 2010\Projects\Project_test\Project_test\obj\x86\Debug\MainWindow.g.cs
+c:\users\mmarc\documents\visual studio 2010\Projects\Project_test\Project_test\obj\x86\Debug\App.g.cs
+c:\users\mmarc\documents\visual studio 2010\Projects\Project_test\Project_test\obj\x86\Debug\Project_test_MarkupCompile.cache
+c:\users\mmarc\documents\visual studio 2010\Projects\Project_test\Project_test\obj\x86\Debug\Project_test.g.resources
+c:\users\mmarc\documents\visual studio 2010\Projects\Project_test\Project_test\obj\x86\Debug\Project_test.Properties.Resources.resources
+c:\users\mmarc\documents\visual studio 2010\Projects\Project_test\Project_test\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\mmarc\documents\visual studio 2010\Projects\Project_test\Project_test\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\mmarc\documents\visual studio 2010\Projects\Project_test\Project_test\obj\x86\Debug\Project_test.exe
+c:\users\mmarc\documents\visual studio 2010\Projects\Project_test\Project_test\obj\x86\Debug\Project_test.pdb
+C:\Users\Kei-kun\Desktop\Project_test\Project_test\obj\x86\Debug\Project_test.exe
+C:\Users\Kei-kun\Desktop\Project_test\Project_test\obj\x86\Debug\Project_test.pdb
+C:\Users\Kei-kun\Desktop\Project_test\Project_test\bin\Debug\Project_test.exe
+C:\Users\Kei-kun\Desktop\Project_test\Project_test\bin\Debug\Project_test.pdb
+C:\Users\Kei-kun\Desktop\Project_test\Project_test\bin\Debug\MathParser.dll
+C:\Users\Kei-kun\Desktop\Project_test\Project_test\obj\x86\Debug\MainWindow.baml
+C:\Users\Kei-kun\Desktop\Project_test\Project_test\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Kei-kun\Desktop\Project_test\Project_test\obj\x86\Debug\App.g.cs
+C:\Users\Kei-kun\Desktop\Project_test\Project_test\obj\x86\Debug\Project_test_MarkupCompile.cache
+C:\Users\Kei-kun\Desktop\Project_test\Project_test\obj\x86\Debug\Project_test.g.resources
+C:\Users\Kei-kun\Desktop\Project_test\Project_test\obj\x86\Debug\Project_test.Properties.Resources.resources
+C:\Users\Kei-kun\Desktop\Project_test\Project_test\obj\x86\Debug\Project_test.csproj.GenerateResource.Cache
+C:\Users\Kei-kun\Desktop\Project_test\Project_test\obj\x86\Debug\Project_test.csprojResolveAssemblyReference.cache
+E:\Проект по РОФП\Project_test\Project_test\Project_test\obj\x86\Debug\Project_test.exe
+E:\Проект по РОФП\Project_test\Project_test\Project_test\obj\x86\Debug\Project_test.pdb
+E:\Проект по РОФП\Project_test\Project_test\Project_test\bin\Debug\Project_test.exe
+E:\Проект по РОФП\Project_test\Project_test\Project_test\bin\Debug\Project_test.pdb
+E:\Проект по РОФП\Project_test\Project_test\Project_test\bin\Debug\MathParser.dll
+E:\Проект по РОФП\Project_test\Project_test\Project_test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Проект по РОФП\Project_test\Project_test\Project_test\obj\x86\Debug\MainWindow.baml
+E:\Проект по РОФП\Project_test\Project_test\Project_test\obj\x86\Debug\MainWindow.g.cs
+E:\Проект по РОФП\Project_test\Project_test\Project_test\obj\x86\Debug\App.g.cs
+E:\Проект по РОФП\Project_test\Project_test\Project_test\obj\x86\Debug\Project_test_MarkupCompile.cache
+E:\Проект по РОФП\Project_test\Project_test\Project_test\obj\x86\Debug\Project_test.g.resources
+E:\Проект по РОФП\Project_test\Project_test\Project_test\obj\x86\Debug\Project_test.Properties.Resources.resources
+E:\Проект по РОФП\Project_test\Project_test\Project_test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Проект по РОФП\Project_test\Project_test\Project_test\obj\x86\Debug\GenerateResource.write.1.tlog
